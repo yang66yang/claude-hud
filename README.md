@@ -253,17 +253,3 @@ cd claude-hud
 npm ci && npm run build
 npm test
 ```
-
-贡献指南请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。
-
----
-
-## 许可证
-
-MIT — 详见 [LICENSE](LICENSE)
-
----
-
-## Star 历史
-
-[![Star 历史图表](https://api.star-history.com/svg?repos=yang66yang/claude-hud&type=Date)](https://star-history.com/#yang66yang/claude-hud&Date)
