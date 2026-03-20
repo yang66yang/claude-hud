@@ -793,7 +793,7 @@ test('countConfigs uses case-sensitive matching for disabled servers', async () 
 
 // Regression test for GitHub Issue #3:
 // "MCP count showing 5 when user has 6, still showing 5 when all disabled"
-// https://github.com/jarrodwatts/claude-hud/issues/3
+// https://github.com/yang66yang/claude-hud/issues/3
 test('Issue #3: MCP count updates correctly when servers are disabled', async () => {
   const homeDir = await mkdtemp(path.join(tmpdir(), 'claude-hud-home-'));
   const originalHome = process.env.HOME;
