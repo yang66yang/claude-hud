@@ -16,15 +16,9 @@ Claude Code 状态栏插件 — 实时显示上下文用量、工具活动、子
 - Claude Code v1.0.80+
 - Node.js 18+ 或 Bun
 
-### 第一步：添加插件市场源
+### 第一步：安装插件
 
 在 Claude Code 中运行：
-
-```
-/plugin marketplace add yang66yang/claude-hud
-```
-
-### 第二步：安装插件
 
 ```
 /plugin install claude-hud
@@ -36,7 +30,7 @@ Claude Code 状态栏插件 — 实时显示上下文用量、工具活动、子
 > ```
 > 然后在新启动的会话中重新运行安装命令。
 
-### 第三步：配置状态栏
+### 第二步：配置状态栏
 
 ```
 /claude-hud:setup
